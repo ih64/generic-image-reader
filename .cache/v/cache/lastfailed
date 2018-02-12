@@ -1,0 +1,8 @@
+{
+  "test_case.py::GIR_Unit_Tests::test_card__true": true,
+  "test_case.py::GIR_Unit_Tests::test_card_false": true,
+  "test_case.py::GIR_Unit_Tests::test_cards_false": true,
+  "test_case.py::GIR_Unit_Tests::test_cards_true": true,
+  "test_case.py::GIR_Unit_Tests::test_size": true,
+  "test_sample.py::GIR_Unit_Tests::test_card__true": true
+}
